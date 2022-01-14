@@ -4,7 +4,7 @@ This repository contains the ArgRewrite V.2 corpus. ArgRewrite project evaluates
 
 The following paper discusses the design, collection and annotation process of the ArgRewrite V.2 corpus:
 
-Kashefi, O., Afrin, T., Dale, M., Olshefski, C., Godley, A., Litman, D., & Hwa, R. (2022). [ArgRewrite V.2: an annotated argumentative revisions corpus.](https://doi.org/10.1007/s10579-021-09567-z) Language Resources & Evaluation. https://doi.org/10.1007/s10579-021-09567-z
+Kashefi, O., Afrin, T., Dale, M., Olshefski, C., Godley, A., Litman, D., & Hwa, R. (2022). [ArgRewrite V.2: an annotated argumentative revisions corpus.](https://rdcu.be/cETxT) Language Resources & Evaluation. https://doi.org/10.1007/s10579-021-09567-z
 
 The following article discusses the interface we used to collect ArgRewrite: 
 
