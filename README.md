@@ -1,8 +1,6 @@
 # ArgRewrite V.2: an Annotated Argumentative Revisions Corpus
 
-This repository contains the ArgRewrite V.2 corpus. ArgRewrite project evaluates the viability of revision as a pedagogical technique by determining whether student interactions with an NLP-based revision assistant enables them to learn to write better -- that is, whether certain forms of the feedback (in terms of the perceived purposes and scopes of changes) encourage students to learn to make more effective revisions.
-
-Please refer to [ArgRewrite Website](http://argrewrite.cs.pitt.edu/) for more details.
+This repository contains the ArgRewrite V.2 corpus. ArgRewrite project evaluates the viability of revision as a pedagogical technique by determining whether student interactions with an NLP-based revision assistant enables them to learn to write better -- that is, whether certain forms of the feedback (in terms of the perceived purposes and scopes of changes) encourage students to learn to make more effective revisions. Please refer to [ArgRewrite Website](http://argrewrite.cs.pitt.edu/) for more details.
 
 The following paper discusses the design, collection and annotation process of the ArgRewrite V.2 corpus:
 
